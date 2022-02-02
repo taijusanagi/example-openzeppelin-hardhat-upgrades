@@ -2,6 +2,10 @@
 
 This is example repo for @openzeppelin/hardhat-upgrades
 
+## Typo
+
+UUPC is typo, UUPS is correct, sorry about that.
+
 ## Example Transaction
 
 ### Transparent
